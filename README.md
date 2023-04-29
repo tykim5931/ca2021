@@ -17,7 +17,7 @@ Below are the list of assignment folder or repositiories which are challenging o
 
 - <b>Data structure</b> and <b>Computer Algorithm</b> assignments implementing basic data structures and solving algorithm problems (Python)
 
-  https://github.com/tykim5931/course-assignments/tree/master/ds2022
+  https://github.com/tykim5931/course-assignments/tree/master/ds2022<br>
   https://github.com/tykim5931/course-assignments/tree/master/cp2021_hw
   
 - <b>Operating System</b> assignment hacking Linux kernel (C)
